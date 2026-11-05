@@ -1,0 +1,4 @@
+strategy,selected_clients,incremental_ead_per_client,expected_loss_ntd,expected_loss_per_client
+Conservative,1222,10000.0,545925.0550415118,446.7471808850342
+Balanced,3307,10000.0,2104544.88850318,636.390955096214
+Aggressive,4087,10000.0,2888451.4525766256,706.7412411491621
